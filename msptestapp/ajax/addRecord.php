@@ -9,7 +9,7 @@
 		$last_name = $_POST['last_name'];
 		$email = $_POST['email'];
 
-		$query = "";
+		$query = "INSERT VALUES INTO DB";
 		//insert data into table 
 		if (!$result = mysqli_query($db, $query)) {
 	        exit(mysqli_error());
