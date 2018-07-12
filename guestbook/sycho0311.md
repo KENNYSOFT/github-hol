@@ -1,0 +1,3 @@
+- name : sycho0311
+- score : 8/10
+- Feedback : 시간이 조금 촉박했던 것 같습니다. 
